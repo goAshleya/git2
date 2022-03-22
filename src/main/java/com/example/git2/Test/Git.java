@@ -10,6 +10,7 @@ public class Git {
         System.out.println("master-tset");
         System.out.println("hot-fix-test");
         System.out.println("push-test");
+         System.out.println("pull-test");
 
     }
 
